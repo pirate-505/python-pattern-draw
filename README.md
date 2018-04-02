@@ -6,6 +6,9 @@ A simple module for drawing square matrixes using tkinter and simple Game of Lif
 python3 patterner.py
 python3 GOL.py
 ```
+### Use patterner as module:
+
+Just simply `import patterner`, then create instance of `Patterner`. There is a good example of usage in **GOL.py**.
 
 ### Install tkinter on Linux: 
 
